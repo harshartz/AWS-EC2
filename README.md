@@ -23,7 +23,10 @@ Choose an Amazon Machine Image (AMI) for the Linux server. You can choose from v
 ![3ss](https://github.com/harshartz/AWS-EC2/assets/130890384/c8676b90-5b95-44b0-ba8f-2190f1572b50)
 
 
-# Step 4: Select the instance type that suits your requirements. Consider the CPU, memory, storage, and network capacity you need.
+# Step 4:
+
+Select the instance type that suits your requirements. Consider the CPU, memory, storage, and network capacity you need.
+
 ![4ss](https://github.com/harshartz/AWS-EC2/assets/130890384/7359d520-e78f-4c65-afc6-e129b900cc2c)
 
 
